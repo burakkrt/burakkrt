@@ -10,7 +10,7 @@
   
 - 🤝 İle ilgili yardım arıyorum **Frontend Development**  
   
-- 👨‍💻 Tüm projelerim şu adresimde mevcuttur ***<a href="https://github.com/burakkrt?tab=repositories" target="blank">My Repositoiries</a>***
+- 👨‍💻 Tüm projelerim şu adresimde mevcuttur ***<a href="https://github.com/burakkrt?tab=repositories" target="_blank" rel="noreferrer">My Repositoiries</a>***
   
 - 📝 Düzenli olarak makaleler yazıyorum ***<a href="https://gamerpazar.com/blog/oyun-haberleri" target="blank">gamerpazar.com</a>***
   
