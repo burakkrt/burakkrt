@@ -1,4 +1,3 @@
-
 <h2 align="left">Merhaba 👋 Ben Burak</h2>
 <p align="left"> Üniversite eğitimim boyunca temel programlama, algoritma ve veri yapıları gibi dersler aldım, bunların üzerinde çeşitli çalışmalar yaparak kendimi geliştirme fırsatı buldum. Şuan Jr. Frontend Developer olarak kendimi geliştirmeye devam ediyorum.</p>
 
@@ -16,13 +15,13 @@
   
 - 💬 Bana şunlar hakkında soru sorabilirsin **HTML, CSS, SASS, Javascript**  
   
-- 📫 Bana buradan ulaşabilirsin ***krtburak@outlook.com***  
+- 📫 Bana buradan ulaşabilirsin ***krtburak@outlook.com***
 
 <hr/>
 
 <h3 align="left">Web Development Skills :  </h3>
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a></p>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Other Skills : </h3>
 <p align="center">
@@ -32,4 +31,4 @@
 <h3 align="left">Github İstatistiklerim :</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkrt&show_icons=true&theme=dark&locale=en&layout=compact" alt="burakkrt" /></p>  
   
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burakkrt&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&cache_seconds=1800&locale=tr" alt="burakkrt" /></p>  
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burakkrt&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&cache_seconds=1800&locale=tr" alt="burakkrt" /></p>
