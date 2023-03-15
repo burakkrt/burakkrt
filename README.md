@@ -27,6 +27,6 @@
 
 <hr/>
 <h3 align="left">My Github stats :</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkrt&show_icons=true&theme=dark&locale=en&layout=compact" alt="burakkrt" /></p>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=burakkrt&show_icons=true&theme=dark&locale=en&layout=compact" alt="burakkrt" />
   
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=burakkrt&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&cache_seconds=1800&locale=tr" alt="burakkrt" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=burakkrt&show_icons=true&theme=dark&title_color=ff0000&text_color=ffffff&cache_seconds=1800&locale=tr" alt="burakkrt" />
