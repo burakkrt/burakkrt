@@ -20,8 +20,6 @@ During my university education, I took courses such as basic programming, algori
 
 <div align="center">
 
-### Web Development Skills
-
 ![My Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,styledcomponents,materialui)
