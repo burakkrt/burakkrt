@@ -24,7 +24,7 @@ During my university education, I took courses such as basic programming, algori
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,styledcomponents,materialui)
 
-![My Skills](https://skillicons.dev/icons?i=react,ts,nextjs,redux,jquery,vite)
+![My Skills](https://skillicons.dev/icons?i=react,ts,redux,jquery,vite)
 
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,figma,discord,linkedin,idea,cs,arduino)
 
