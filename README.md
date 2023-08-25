@@ -28,6 +28,9 @@ During my university education, I took courses such as basic programming, algori
 
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,figma,discord,linkedin,idea,cs,arduino)
 
+![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
+
+
 </div>
 
 <hr/>
