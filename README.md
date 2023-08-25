@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Burak
 
-During my university education, I took courses such as basic programming, algorithms and data structures, and I had the opportunity to improve myself by working on them. Currently, I continue to develop myself as a Frontend Developer.
+During my university education, I took courses such as basic programming, algorithms and data structures, and I had the opportunity to improve myself by working on them. Currently, I continue to develop myself as a Frontend Developer. ![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
 
 ### Learn about me ;
   
@@ -27,9 +27,6 @@ During my university education, I took courses such as basic programming, algori
 ![My Skills](https://skillicons.dev/icons?i=react,ts,redux,jquery,vite)
 
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,figma,discord,linkedin,idea,cs,arduino)
-
-![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
-
 
 </div>
 
