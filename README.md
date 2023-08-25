@@ -1,7 +1,7 @@
 ## Hi 👋 I'm Burak
 
-During my university education, I took courses such as basic programming, algorithms and data structures, and I had the opportunity to improve myself by working on them. Currently, I continue to develop myself as a Frontend Developer. ![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
-
+During my university education, I took courses such as basic programming, algorithms and data structures, and I had the opportunity to improve myself by working on them. Currently, I continue to develop myself as a Frontend Developer.
+ ![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
 ### Learn about me ;
   
 - 🌱 I am currently working on [**React**](https://reactjs.org), [**Vue**](https://vuejs.org)
