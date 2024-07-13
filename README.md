@@ -8,8 +8,6 @@ During my university education, I took courses such as basic programming, algori
   
 - 👨‍💻 All my projects are available at **<a href="https://github.com/burakkrt?tab=repositories" target="_blank" rel="noreferrer">My Repositoiries</a>**
   
-- 📝 I write articles regularly **<a href="https://gamerpazar.com/blog/oyun-haberleri" target="blank">gamerpazar.com</a>**
-  
 - 💬 I have advanced knowledge on these subjects [**HTML**](https://html.com), [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS), [**SASS & SCSS**](https://sass-lang.com), [**Javascript**](https://www.javascript.com), [**Bootstrap**](https://getbootstrap.com), [**Tailwind**](https://tailwindui.com), [**Git**](https://git-scm.com), [**Github**](https://github.com)
   
 - 📫 You can reach me here **krtburak@outlook.com**
