@@ -1,3 +1,4 @@
+
 ## Hi 👋 I'm Burak
 
 During my university education, I took courses such as basic programming, algorithms and data structures, and I had the opportunity to improve myself by working on them. Currently, I continue to develop myself as a Frontend Developer. <br/>
@@ -20,9 +21,9 @@ During my university education, I took courses such as basic programming, algori
 
 ![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,styledcomponents,materialui)
 
-![My Skills](https://skillicons.dev/icons?i=react,ts,redux,jquery,vite)
+![My Skills](https://skillicons.dev/icons?i=react,ts,redux,jquery,vite,nodejs,express,mongodb,docker)
 
-![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,figma,discord,linkedin,idea,cs,arduino)
+![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,figma,xd,discord,linkedin,idea,cs,arduino)
 
 </div>
 
