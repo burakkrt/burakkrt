@@ -4,9 +4,7 @@ During my university education, I took courses such as basic programming, algori
  ![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
 ### Learn about me ;
   
-- 🌱 I am currently working on [**React**](https://reactjs.org), [**Vue**](https://vuejs.org)
-  
-- 🤝 We can cooperate on [**Front-end Development Technologies**](https://roadmap.sh/frontend)  
+- 🤝 We can cooperate on [**Javascript Full Stack (MERN) Development Technologies**](https://www.mongodb.com/resources/languages/mern-stack)  
   
 - 👨‍💻 All my projects are available at **<a href="https://github.com/burakkrt?tab=repositories" target="_blank" rel="noreferrer">My Repositoiries</a>**
   
