@@ -4,7 +4,7 @@ During my university education, I took courses such as basic programming, algori
  ![](https://komarev.com/ghpvc/?username=burakkrt&color=red)
 ### Learn about me ;
   
-- 🤝 We can cooperate on [**Javascript Full Stack (MERN) Development Technologies**](https://www.mongodb.com/resources/languages/mern-stack)  
+- 🤝 We can cooperate on Frontend Development Technologies
   
 - 👨‍💻 All my projects are available at **<a href="https://github.com/burakkrt?tab=repositories" target="_blank" rel="noreferrer">My Repositoiries</a>**
   
